@@ -28,6 +28,7 @@ gem 'friendly_id'
 gem 'sinatra', :require => nil
 gem 'passenger'
 gem 'io-console'
+gem 'therubyracer',  platforms: :ruby
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
