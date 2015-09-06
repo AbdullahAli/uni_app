@@ -28,6 +28,7 @@ gem 'mysql2'
 gem 'friendly_id'
 gem 'sinatra', :require => nil
 gem 'passenger'
+gem 'io-console'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

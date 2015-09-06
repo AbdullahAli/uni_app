@@ -114,6 +114,7 @@ GEM
       activesupport (>= 4.1.0)
     hitimes (1.2.2)
     i18n (0.7.0)
+    io-console (0.4.2)
     jbuilder (2.3.1)
       activesupport (>= 3.0.0, < 5)
       multi_json (~> 1.2)
@@ -266,6 +267,7 @@ DEPENDENCIES
   coffee-rails (~> 4.1.0)
   devise
   friendly_id
+  io-console
   jbuilder (~> 2.0)
   jquery-rails
   mrd
